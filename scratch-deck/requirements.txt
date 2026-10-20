@@ -1,0 +1,7 @@
+PySide6
+numpy
+scipy
+soundfile
+sounddevice
+pyqtgraph
+librosa   # soundfile で読めないMP3用のフォールバック (任意)
